@@ -1,2 +1,2 @@
 # Wavelet-Entropy
-Matlab Code for calculating wavelet entropy of a signal
+Matlab Codes for calculating wavelet entropy and related quantities of a signal
